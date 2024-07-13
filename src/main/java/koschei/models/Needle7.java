@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Needle7 {
-    @Autowired
+
     private Deth8 deth;
 
     public Needle7(Deth8 deth) {
